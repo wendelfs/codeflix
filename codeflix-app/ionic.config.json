@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "codeflix-app",
   "integrations": {
@@ -5,3 +6,12 @@
   },
   "type": "ionic-angular"
 }
+=======
+{
+  "name": "codeflix-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
+>>>>>>> 71264fc544af9982104d1172c51d8a1fa9fa3377
